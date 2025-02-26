@@ -13,6 +13,8 @@ This page provides a consolidated view of pricing information for various Speech
   - [Deepgram](#deepgram)
     - [Pre-Recorded, Pay As You Go API Use](#pre-recorded-pay-as-you-go-api-use)
     - [Streaming (Real Time Transcription)](#streaming-real-time-transcription)
+  - [OpenAI Whisper](#openai-whisper)
+  - [Pricing](#pricing)
   - [Gladia](#gladia)
   - [Google Cloud](#google-cloud)
   - [V2 API](#v2-api)
@@ -22,7 +24,7 @@ This page provides a consolidated view of pricing information for various Speech
   - [Voicegain](#voicegain)
   - [Whisper API](#whisper-api)
     - [Notes](#notes)
-    - [Pricing](#pricing)
+    - [Pricing](#pricing-1)
 
 ---
 
@@ -65,6 +67,19 @@ This page provides a consolidated view of pricing information for various Speech
 ### Streaming (Real Time Transcription)
 
 *No streaming pricing information available in the source file*
+
+</details>
+
+## OpenAI Whisper
+
+<details>
+<summary>Click to expand OpenAI Whisper pricing details</summary>
+
+## Pricing
+
+| Service      | Price       | Unit    |
+| ------------ | ----------- | ------- |
+| Transcription| $0.006      | minute  |
 
 </details>
 

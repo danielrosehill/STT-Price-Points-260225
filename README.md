@@ -21,10 +21,11 @@ You can view a [consolidated pricing comparison](consolidated-pricing.md) of all
 2. [Deepgram](providers/deepgram.md)
 3. [Gladia](providers/gladia.md)
 4. [Google Cloud](providers/google-cloud.md)
-5. [Rev.ai](providers/rev-ai.md)
-6. [Speechmatics](providers/speechmatics.md)
-7. [Voicegain](providers/voicegain.md)
-8. [Whisper API](providers/whisperapi.md)
+5. [OpenAI Whisper](providers/openai-whisper.md)
+6. [Rev.ai](providers/rev-ai.md)
+7. [Speechmatics](providers/speechmatics.md)
+8. [Voicegain](providers/voicegain.md)
+9. [Whisper API](providers/whisperapi.md)
 
 ## Purpose
 
