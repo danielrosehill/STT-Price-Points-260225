@@ -6,29 +6,23 @@ This page provides a consolidated view of pricing information for various Speech
 
 ## Table of Contents
 
-- [Consolidated Speech-to-Text API Pricing](#consolidated-speech-to-text-api-pricing)
-  - [Table of Contents](#table-of-contents)
-  - [Agora](#agora)
-  - [Terms](#terms)
-  - [Deepgram](#deepgram)
-    - [Pre-Recorded, Pay As You Go API Use](#pre-recorded-pay-as-you-go-api-use)
-    - [Streaming (Real Time Transcription)](#streaming-real-time-transcription)
-  - [OpenAI Whisper](#openai-whisper)
-  - [Pricing](#pricing)
-  - [Gladia](#gladia)
-  - [Google Cloud](#google-cloud)
-  - [V2 API](#v2-api)
-  - [V1 API](#v1-api)
-  - [Rev.ai](#revai)
-  - [Speechmatics](#speechmatics)
-  - [Voicegain](#voicegain)
-  - [Whisper API](#whisper-api)
-    - [Notes](#notes)
-    - [Pricing](#pricing-1)
+| Provider | Pricing Details |
+|---------|-------------|
+| [![Agora](https://img.shields.io/badge/Agora-2F54EB?style=for-the-badge&logo=agora&logoColor=white)](#agora-) | [View Pricing](#agora-) |
+| [![Deepgram](https://img.shields.io/badge/Deepgram-3C9CD7?style=for-the-badge&logo=deepgram&logoColor=white)](#deepgram-) | [View Pricing](#deepgram-) |
+| [![Gladia](https://img.shields.io/badge/Gladia-6B46C1?style=for-the-badge)](#gladia-) | [View Pricing](#gladia-) |
+| [![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](#google-cloud-) | [View Pricing](#google-cloud-) |
+| [![OpenAI Whisper](https://img.shields.io/badge/OpenAI_Whisper-412991?style=for-the-badge&logo=openai&logoColor=white)](#openai-whisper-) | [View Pricing](#openai-whisper-) |
+| [![Rev.ai](https://img.shields.io/badge/Rev.ai-FF483B?style=for-the-badge)](#revai-) | [View Pricing](#revai-) |
+| [![Speechmatics](https://img.shields.io/badge/Speechmatics-2C3E50?style=for-the-badge)](#speechmatics-) | [View Pricing](#speechmatics-) |
+| [![Voicegain](https://img.shields.io/badge/Voicegain-1DB954?style=for-the-badge)](#voicegain-) | [View Pricing](#voicegain-) |
+| [![Whisper API](https://img.shields.io/badge/Whisper_API-00A36C?style=for-the-badge)](#whisper-api-) | [View Pricing](#whisper-api-) |
+
+Click on any provider badge to jump to their pricing details.
 
 ---
 
-## Agora
+## Agora ![Agora](https://img.shields.io/badge/Agora-2F54EB?style=flat&logo=agora&logoColor=white)
 
 <details>
 <summary>Click to expand Agora pricing details</summary>
@@ -45,7 +39,7 @@ This page provides a consolidated view of pricing information for various Speech
 
 </details>
 
-## Deepgram
+## Deepgram ![Deepgram](https://img.shields.io/badge/Deepgram-3C9CD7?style=flat&logo=deepgram&logoColor=white)
 
 <details>
 <summary>Click to expand Deepgram pricing details</summary>
@@ -70,7 +64,7 @@ This page provides a consolidated view of pricing information for various Speech
 
 </details>
 
-## OpenAI Whisper
+## OpenAI Whisper ![OpenAI Whisper](https://img.shields.io/badge/OpenAI_Whisper-412991?style=flat&logo=openai&logoColor=white)
 
 <details>
 <summary>Click to expand OpenAI Whisper pricing details</summary>
@@ -83,7 +77,7 @@ This page provides a consolidated view of pricing information for various Speech
 
 </details>
 
-## Gladia
+## Gladia ![Gladia](https://img.shields.io/badge/Gladia-6B46C1?style=flat)
 
 <details>
 <summary>Click to expand Gladia pricing details</summary>
@@ -119,7 +113,7 @@ This page provides a consolidated view of pricing information for various Speech
 
 </details>
 
-## Google Cloud
+## Google Cloud ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
 
 <details>
 <summary>Click to expand Google Cloud pricing details</summary>
@@ -142,7 +136,7 @@ This page provides a consolidated view of pricing information for various Speech
 
 </details>
 
-## Rev.ai
+## Rev.ai ![Rev.ai](https://img.shields.io/badge/Rev.ai-FF483B?style=flat)
 
 <details>
 <summary>Click to expand Rev.ai pricing details</summary>
@@ -181,7 +175,7 @@ This page provides a consolidated view of pricing information for various Speech
 
 </details>
 
-## Speechmatics
+## Speechmatics ![Speechmatics](https://img.shields.io/badge/Speechmatics-2C3E50?style=flat)
 
 <details>
 <summary>Click to expand Speechmatics pricing details</summary>
@@ -197,7 +191,7 @@ This page provides a consolidated view of pricing information for various Speech
 
 </details>
 
-## Voicegain
+## Voicegain ![Voicegain](https://img.shields.io/badge/Voicegain-1DB954?style=flat)
 
 <details>
 <summary>Click to expand Voicegain pricing details</summary>
@@ -216,7 +210,7 @@ This page provides a consolidated view of pricing information for various Speech
 
 </details>
 
-## Whisper API
+## Whisper API ![Whisper API](https://img.shields.io/badge/Whisper_API-00A36C?style=flat)
 
 <details>
 <summary>Click to expand Whisper API pricing details</summary>
