@@ -15,6 +15,8 @@ Pricing for cloud services and APIs can change frequently. Always check the offi
 
 Pricing information is available for the following providers (in alphabetical order):
 
+You can view a [consolidated pricing comparison](consolidated-pricing.md) of all providers, or check individual provider details below:
+
 1. [Agora](providers/agora.md)
 2. [Deepgram](providers/deepgram.md)
 3. [Gladia](providers/gladia.md)

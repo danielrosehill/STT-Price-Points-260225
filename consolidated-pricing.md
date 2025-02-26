@@ -9,11 +9,14 @@ This page provides a consolidated view of pricing information for various Speech
 - [Consolidated Speech-to-Text API Pricing](#consolidated-speech-to-text-api-pricing)
   - [Table of Contents](#table-of-contents)
   - [Agora](#agora)
+  - [Terms](#terms)
   - [Deepgram](#deepgram)
     - [Pre-Recorded, Pay As You Go API Use](#pre-recorded-pay-as-you-go-api-use)
     - [Streaming (Real Time Transcription)](#streaming-real-time-transcription)
   - [Gladia](#gladia)
   - [Google Cloud](#google-cloud)
+  - [V2 API](#v2-api)
+  - [V1 API](#v1-api)
   - [Rev.ai](#revai)
   - [Speechmatics](#speechmatics)
   - [Voicegain](#voicegain)
@@ -28,9 +31,15 @@ This page provides a consolidated view of pricing information for various Speech
 <details>
 <summary>Click to expand Agora pricing details</summary>
 
-```
-Content from agora.md will be inserted here
-```
+## Terms
+
+- First 300 mins free
+- PAYG pricing, no upfront charges
+
+| Term                    | Usage type            | Price             |
+|-------------------------|-----------------------|-------------------|
+| Real-Time Transcription | Real-Time Transcription | $16.99 /1,000 minutes |
+| Language Identification | Language Identification | $5.00 /1,000 minutes  |
 
 </details>
 
@@ -55,9 +64,7 @@ Content from agora.md will be inserted here
 
 ### Streaming (Real Time Transcription)
 
-```
-Additional content from deepgram.md will be inserted here
-```
+*No streaming pricing information available in the source file*
 
 </details>
 
@@ -66,9 +73,34 @@ Additional content from deepgram.md will be inserted here
 <details>
 <summary>Click to expand Gladia pricing details</summary>
 
-```
-Content from gladia.md will be inserted here
-```
+| Feature                    | Free                                               | Pro                                                              | Enterprise                                                       |
+| -------------------------- | -------------------------------------------------- | ---------------------------------------------------------------- | ----------------------------------------------------------------- |
+| Description                | Perfect for developers early-stage startups and individual users | Designed to grow with scaling digital companies                | Custom plan tailored to the modern enterprise                    |
+| Price                      | $0 per month (10h/month included)                   | $0.612 per hour + $0.144 / hour for live transcription           | Custom per month Contact us for more details                      |
+| Get Started                | Get started                                        | Get started                                                      | Contact sales                                                     |
+| Batch transcription        | ✓                                                  | ✓                                                                |                                                                   |
+| Speaker diarization          | ✓                                                  | ✓                                                                |                                                                   |
+| Real-time transcription     | ✓                                                  | ✓                                                                |                                                                   |
+| Word-level timestamps       |                                                    | ✓                                                                |                                                                   |
+| Unlimited file size        | x                                                  |                                                                   |                                                                   |
+| Unlimited file length      | x                                                  |                                                                   |                                                                   |
+| Concurrency limitation       | x                                                  |                                                                   |                                                                   |
+| Full support for 100+ languages |                                                    | ✓                                                                |                                                                   |
+| Language detection          |                                                    | ✓                                                                |                                                                   |
+| Code-switching             |                                                    | ✓                                                                |                                                                   |
+| Code translation           |                                                    | ✓                                                                |                                                                   |
+| Automatic punctuation and casing |                                                 | ✓                                                                |                                                                   |
+| Custom vocabulary          |                                                    | ✓                                                                |                                                                   |
+| Dual channel transcription |                                                    | ✓                                                                |                                                                   |
+| SRT and VTT caption formats |                                                    | ✓                                                                |                                                                   |
+| Custom Data Retention      |                                                    |                                                                   | ✓                                                                 |
+| Service Level Agreement    |                                                    |                                                                   | ✓                                                                 |
+| Hosting - Cloud            |                                                    |                                                                   | ✓                                                                 |
+| Hosting - On-premise       |                                                    |                                                                   | ✓                                                                 |
+| Hosting - Air gap          |                                                    |                                                                   | ✓                                                                 |
+| Support - Email & phone    |                                                    |                                                                   | ✓                                                                 |
+| Support - Dedicated account manager and support engineer |                         |                                                                   | ✓                                                                 |
+
 
 </details>
 
@@ -77,9 +109,21 @@ Content from gladia.md will be inserted here
 <details>
 <summary>Click to expand Google Cloud pricing details</summary>
 
-```
-Content from google-cloud.md will be inserted here
-```
+## V2 API
+
+| Category             | Model    | 0 minute to 500,000 minute | 500,000 minute to 1,000,000 minute | 1,000,000 minute to 2,000,000 minute | 2,000,000 minute and above |
+| -------------------- | -------- | -------------------------- | ----------------------------------- | ------------------------------------ | --------------------------- |
+| Recognition          | Standard | $0.016 / 1 minute, per 1 month / account   | $0.01 / 1 minute, per 1 month / account    | $0.008 / 1 minute, per 1 month / account     | $0.004 / 1 minute, per 1 month / account       |
+| Recognition (Logged) | Standard | $0.012 / 1 minute, per 1 month / account   | $0.0075 / 1 minute, per 1 month / account   | $0.006 / 1 minute, per 1 month / account    | $0.003 / 1 minute, per 1 month / account      |
+
+## V1 API
+
+| Category                                    | Model       | 0 minute to 60 minute         | 60 minute and above          |
+| ------------------------------------------- | ----------- | ----------------------------- | ----------------------------- |
+| Speech Recognition (with data logging)      | Standard    | $0 (Free) / 1 minute / account | $0.016 / 1 minute / 1 month / account |
+| Speech Recognition (without data logging)   | Standard    | $0 (Free) / 1 minute / account | $0.024 / 1 minute / 1 month / account |
+| Speech Recognition (without data logging)   | Medical     | $0 (Free) / 1 minute / account | $0.078 / 1 minute / 1 month / account |
+
 
 </details>
 
@@ -127,9 +171,14 @@ Content from google-cloud.md will be inserted here
 <details>
 <summary>Click to expand Speechmatics pricing details</summary>
 
-```
-Content from speechmatics.md will be inserted here
-```
+| Tier           | Free                                                                                                                                                                                                                                                                                                                                   | Pay As You Grow                                                                                                                                                                                                                                                                                                                                    |
+| -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Pricing        | Start free                                                                                                                                                                                                                                                                                                                             | from $0.30 an hour                                                                                                                                                                                                                                                                                                                          |
+| Free Hours     | 8 hours free per month <br> 4hr batch + 4hr real-time free                                                                                                                                                                                                                                                                               | 8 hours free per month <br> 4hr batch + 4hr real-time free                                                                                                                                                                                                                                                                               |
+| Features       | 50 languages supported <br> Standard or Enhanced accuracy <br> Industry-leading accent coverage <br> Real-time latency <1s <br> Language identification\* <br> Speaker diarization (Real-time and Files)\* <br> Custom dictionary <br> Precise timestamps <br> Advanced punctuation and casing <br> Numeral formatting <br> Profanity and disfluency detection <br> Multi-channel files supported <br> Export SRT captions <br> Audio events | 50 languages supported <br> Standard or Enhanced accuracy <br> Industry-leading accent coverage <br> Real-time latency <1s <br> Language identification\* <br> Speaker diarization (Real-time and Files)\* <br> Custom dictionary <br> Precise timestamps <br> Advanced punctuation and casing <br> Numeral formatting <br> Profanity and disfluency detection <br> Multi-channel files supported <br> Export SRT captions <br> Audio events |
+| Capabilities | Translation <br> Summaries <br> Chapters <br> Sentiment <br> Topics                                                                                                                                                                                                                                                                        | Translation <br> Summaries <br> Chapters <br> Sentiment <br> Topics                                                                                                                                                                       |
+
+
 
 </details>
 
@@ -138,9 +187,17 @@ Content from speechmatics.md will be inserted here
 <details>
 <summary>Click to expand Voicegain pricing details</summary>
 
-```
-Content from voicegain.md will be inserted here
-```
+| Developer Product            | Per Second | Per Minute | Per Hour |
+| ---------------------------- | ---------- | ---------- | -------- |
+| STT - Offline - Basic        | $0.00005   | $0.0030    | $0.180   |
+| STT - Offline - Enhanced     | $0.00006   | $0.0036    | $0.216   |
+| STT - Offline - Multi-Channel| $0.00010   | $0.0060    | $0.36    |
+| STT-Realtime - Transcription | $0.00009   | $0.0054    | $0.324   |
+| STT - Custom                 | Contact Us | Contact Us | Contact Us|
+| STT-Realtime - Bots/VR       | $0.00015   | $0.0090    | $0.54    |
+
+
+
 
 </details>
 
