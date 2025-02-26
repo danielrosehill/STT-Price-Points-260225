@@ -17,15 +17,19 @@ Pricing information is available for the following providers (in alphabetical or
 
 You can view a [consolidated pricing comparison](consolidated-pricing.md) of all providers, or check individual provider details below:
 
-1. [Agora](providers/agora.md)
-2. [Deepgram](providers/deepgram.md)
-3. [Gladia](providers/gladia.md)
-4. [Google Cloud](providers/google-cloud.md)
-5. [OpenAI Whisper](providers/openai-whisper.md)
-6. [Rev.ai](providers/rev-ai.md)
-7. [Speechmatics](providers/speechmatics.md)
-8. [Voicegain](providers/voicegain.md)
-9. [Whisper API](providers/whisperapi.md)
+| Provider | Pricing Page |
+|---------|-------------|
+| [![Agora](https://img.shields.io/badge/Agora-2F54EB?style=for-the-badge&logo=agora&logoColor=white)](providers/agora.md) | [View Pricing](providers/agora.md) |
+| [![Deepgram](https://img.shields.io/badge/Deepgram-3C9CD7?style=for-the-badge&logo=deepgram&logoColor=white)](providers/deepgram.md) | [View Pricing](providers/deepgram.md) |
+| [![Gladia](https://img.shields.io/badge/Gladia-6B46C1?style=for-the-badge)](providers/gladia.md) | [View Pricing](providers/gladia.md) |
+| [![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](providers/google-cloud.md) | [View Pricing](providers/google-cloud.md) |
+| [![OpenAI Whisper](https://img.shields.io/badge/OpenAI_Whisper-412991?style=for-the-badge&logo=openai&logoColor=white)](providers/openai-whisper.md) | [View Pricing](providers/openai-whisper.md) |
+| [![Rev.ai](https://img.shields.io/badge/Rev.ai-FF483B?style=for-the-badge)](providers/rev-ai.md) | [View Pricing](providers/rev-ai.md) |
+| [![Speechmatics](https://img.shields.io/badge/Speechmatics-2C3E50?style=for-the-badge)](providers/speechmatics.md) | [View Pricing](providers/speechmatics.md) |
+| [![Voicegain](https://img.shields.io/badge/Voicegain-1DB954?style=for-the-badge)](providers/voicegain.md) | [View Pricing](providers/voicegain.md) |
+| [![Whisper API](https://img.shields.io/badge/Whisper_API-00A36C?style=for-the-badge)](providers/whisperapi.md) | [View Pricing](providers/whisperapi.md) |
+
+All providers are also available in a [consolidated pricing comparison](consolidated-pricing.md).
 
 ## Purpose
 
